@@ -25,3 +25,4 @@ def arg_calc(argv):
 
 if __name__ == "__main__":
     import sys
+    arg_calc(sys.argv)
